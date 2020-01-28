@@ -5,7 +5,7 @@ IDE :
 - ECLIPSE
 
 Project Description :
--For this project, our team decided to built the retro arcade game called
+- For this project, our team decided to built the retro arcade game called
 Snake. An STM32 used peripherals such as ADC, DAC, DMA, SPI, and GPIO to
 interact with the LED matrix, joystick, speaker, and the amplifier. The 
 peripheral ADC was used to interact with the joystick. ADC retrieved values
